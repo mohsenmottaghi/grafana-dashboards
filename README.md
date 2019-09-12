@@ -1,4 +1,6 @@
 # Grafana Dashboards
+![Graphana Logo](https://grafana.com/static/assets/img/grafana_logo.svg)
+
 This repo contain my general Grafana dashboards and feel free to fork it and use it :smile:
 
 # How to use?
