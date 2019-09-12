@@ -1,4 +1,6 @@
 # Grafana Dashboards
+![Generic badge](https://img.shields.io/badge/Graphana_Dashboard_Test-Pass-<COLOR>.svg)  ![Generic badge](https://img.shields.io/badge/Price-Free-<COLOR>.svg)
+
 ![Graphana Logo](https://grafana.com/static/assets/img/grafana_logo.svg)
 
 This repo contain my general Grafana dashboards and feel free to fork it and use it :smile:

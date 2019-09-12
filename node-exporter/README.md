@@ -1,4 +1,6 @@
 # node-exporter Dashboard
+![Generic badge](https://img.shields.io/badge/Graphana_Dashboard_Test-Pass-<COLOR>.svg)  ![Generic badge](https://img.shields.io/badge/Variable-Yes-green.svg) ![Generic badge](https://img.shields.io/badge/Prmetheus-Yes-green.svg) ![Generic badge](https://img.shields.io/badge/Exporter-Prometheus_node_exporter-green.svg)
+
 To use this dashboard you should import `.json` file on your dashboard and define variables.
 # Variables
 - $node		->		will be your FQDN or IP of target
